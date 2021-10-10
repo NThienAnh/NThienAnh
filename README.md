@@ -11,11 +11,8 @@
 ===============MY TEAM===============
 - Leader:@Me
 - Member: 3
-- Our team has 2 smaler groups
+- Our team has 1 smaler groups
 - [TA_TEAM]
--    [TAHackintosh]:This team only for hackintosh service and we will translate OpenCore Guide in to vietnamese
--         [Hackintosh Service]We will hackintosh for your computer and then you pay me . Life Time support!
--         [Translate Opencore Guide] This team we will translate OpenCore Guide in to vietnamese
 -    [TAStudio]:This team for multimedia we crate channle on youtube to upload our video
 -        [Đánh giá Anime] This channle we create for review and rate anime <3
 -    [Other]
