@@ -1,7 +1,7 @@
 =================ABOUT ME=================
 - 👋 Hi everyone, I’m @NThienAnh.I am leader of TA_Team 
 - I'm live in VietNam 
-- 👀 I’m interested in Coder Editer Hackintosh and more...
+- 👀 I’m interested in Coder, Editer, producer,making music Hackintosh and more...
 - 🌱 I’m currently learning Front-end webcode and edit video
 - 📫 How to reach me:There are many ways to contact me.
 - 1)Email:nthienanh.work@gmail.com
