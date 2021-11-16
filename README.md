@@ -15,6 +15,7 @@
 - [TA_TEAM]
 -    [TAStudio]:This team for multimedia we crate channle on youtube to upload our video
 -        [Đánh giá Anime] This channle we create for review and rate anime <3
+-        [Sách nói việt nam]For audio book <3
 -    [Other]
 - {Note}For more infomation visit Team Folder {Note}
 - If you like me you can donate me at anytimes
