@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Front-end webcode and edit video
 - 📫 How to reach me:There are many ways to contact me.
 - 1)Email:nthienanh.work@gmail.com
-- 2)Facebook:https://www.facebook.com/NThienAnh07(coming soon)
+- 2)Facebook:https://www.facebook.com/NThienAnh07 (coming soon)
 - 3)Discord:AnhNguyen#0982
 - Other 
 - Good Bye
